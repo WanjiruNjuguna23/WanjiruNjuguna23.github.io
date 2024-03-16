@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Martha Wanjiru Njuguna</title>
+    
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
@@ -9,7 +9,6 @@
         <h1>About Me</h1>
         <p>Name: Martha Wanjiru Njuguna</p>
         <p>Class: 2025</p>
-        <p>Expected Graduation: December 2024</p>
         <p>Double Major: Computer Science and Quantitative Economics & Econometrics</p>
         <p>School: Connecticut College</p>
         <p>Role: At my college I am an Econometrics and Micro Economics Teacher Assistant</p>
