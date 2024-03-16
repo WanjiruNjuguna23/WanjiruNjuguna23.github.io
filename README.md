@@ -12,11 +12,11 @@
         <p>Double Major: Computer Science and Quantitative Economics & Econometrics</p>
         <p>School: Connecticut College</p>
         <p>Role: At my college I am an Econometrics and Micro Economics Teacher Assistant</p>
+        <p>Extracurriculars: Women in Finance, Peggotty Investment Club, Chess Robotics</p>
         <p>Interests: I love Reading, Crocheting and going to the Gym in my free time</p>
         <p>Passionate About: Finance, Python Data Analysis, Python Software Development</p>
         <p>Open to: Internship Opportunities</p>
-        <p>Learning: React, Django HTML for My Website</p>
-        <p>See my resume</p>
+        <p>Learning: React, Javascript and Git</p>
     </div>
 </body>
 </html>
